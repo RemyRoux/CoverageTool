@@ -1,0 +1,2 @@
+# CoverageTool
+Javascript coverage API
